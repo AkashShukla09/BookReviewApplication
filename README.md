@@ -100,6 +100,8 @@ mern-application/
 │
 ├── .gitignore
 └── README.md
+```
+
 ## Notes For Evaluators
 
 I have **Implemented all the funtionalities** in the assignment **including the optional.** 
